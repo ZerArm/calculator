@@ -8,8 +8,11 @@ git push -u origin <branch>
 
 ---
 # Here are your commands:
+
+```bash
 cd /c/Users/gertr/repos/calculator
 cp -r /c/Users/gertr/IdeaProjects/Calculator .
 git add -A
 git commit -m 'Fix'
 git push -u origin main
+```
