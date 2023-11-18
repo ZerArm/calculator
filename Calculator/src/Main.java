@@ -9,6 +9,7 @@ class Calc {
         System.out.println(parse(expression));
     }
 
+    
     public static String parse(String expression) throws Exception {
         int num1;
         int num2;
